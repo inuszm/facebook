@@ -22,7 +22,7 @@ body {
 }
 .utama {
   background-color: rgb(255, 255, 255);
-  padding: 10px 10px 10px;
+  padding: 10px 5px 10px;
   border-radius: 10px;
   box-shadow: 3px 5px 7px 2px rgb(0, 0, 0, 0.5);
   border: 1px solid rgb(0, 0, 0, 0.4);
@@ -49,7 +49,6 @@ body {
   outline: none;
   border: 2px solid black;
   border-radius: 10px;
-  padding: 10px 45px 20px 10px;
 }
 
 .input-box input::placeholder {
